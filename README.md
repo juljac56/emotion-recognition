@@ -39,12 +39,13 @@ Models with MobileNetV2 and VGG16 the accuracy is around 45 % which is quite low
 
 # Sources
 
-1 - Websites :
-                    Kaggle : https://www.kaggle.com/
-                    Toward data science : https://towardsdatascience.com/
-2 - Youtube Channels : 
-                    Great Learning  : https://www.youtube.com/watch?v=m0fWjP3yIEo&ab_channel=GreatLearning
-                    Neha Yadav : https://www.youtube.com/watch?v=DtBu1u5aBsc&ab_channel=NehaYadav
+1 - Websites : <br>
+                    Kaggle : https://www.kaggle.com/     <br>
+                    Toward data science : https://towardsdatascience.com/ <br>
+                    <br>
+2 - Youtube Channels : <br>
+                    Great Learning  : https://www.youtube.com/watch?v=m0fWjP3yIEo&ab_channel=GreatLearning <br>
+                    Neha Yadav : https://www.youtube.com/watch?v=DtBu1u5aBsc&ab_channel=NehaYadav <br>
                     DeepLearning_by_PhDScholar   https://www.youtube.com/watch?v=avv9GQ3b6Qg&t=1255s&ab_channel=DeepLearning_by_PhDScholar
 
 
