@@ -30,7 +30,7 @@ pip install opencv-python
 
 Model from Scratch  : The accuracy is around 56 %, which is correct for a model from scratch.
 
-
+<img src="emotion-recognition/Img/loss_from_scratch.PNG" alt="loss scratch">
 
 Models with MobileNetV2 and VGG16 the accuracy is around 45 % which is quite low for models using transfer learning. It seems that the layers added after the loaded models are not optimal, some improvements have to be made.
 
