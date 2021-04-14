@@ -3,14 +3,14 @@ Machine Learning project, the goal is to be able to detect 7 different emotions 
 
 Author  : Julien Jacquot
 
-#The data set
+# The data set
 
 The data set was provided by the web site Kaggle https://www.kaggle.com/deadskull7/fer2013 
-It is a data composed of nearly 35 k gray images (48x48).
+It is a data set composed of nearly 35 k gray images (48x48).
 
 The data set is imbalanced but this issue can be tackled thanks to Data augmentation, which is used in some of the following models. 
 
-#Installation
+# Installation
 
 pip install deepface
 pip install tensorflow-gpu
@@ -30,10 +30,12 @@ pip install opencv-python
 
 Model from Scratch  : The accuracy is around 56 %, which is correct for a model from scratch.
 
+
+
 Models with MobileNetV2 and VGG16 the accuracy is around 45 % which is quite low for models using transfer learning. It seems that the layers added after the loaded models are not optimal, some improvements have to be made.
 
 
-#Sources
+# Sources
 
 1 - Websites :
                     Kaggle : https://www.kaggle.com/
