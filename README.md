@@ -21,7 +21,7 @@ pip install opencv-python
 **Folder Deepface :** Deepface is a deep learning facial recognition system which is already very efficient. It was implemented at the beginning of the project so as to understand the topic.
 
 **Folder Models :** Here are stored 3 python programms, each one of them created a new model : 
-      1 - "Model with MobileNetV2" and "Mobile with VGG 16" are two models that use transfer learning. MobileNetV2 and VGG 16 CNN were first used and then some layers were added at the end of them. 
+      1 - "Model with MobileNetV2" and "Model with VGG 16" are two models that use transfer learning. MobileNetV2 and VGG 16 CNN were first used and then some layers were added at the end of them. <br>
       2  - Model from scratch : The model was created without the concept of transfer learning
 
 **Folder Models to  load :** Here are stored the different models that one can load to use It
