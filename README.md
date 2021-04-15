@@ -12,9 +12,9 @@ The data set is imbalanced but this issue can be tackled thanks to Data augmenta
 
 # Installation
 
-pip install deepface
-pip install tensorflow-gpu
-pip install opencv-python
+pip install deepface  <br>
+pip install tensorflow-gpu  <br>
+pip install opencv-python  <br>
 
 # Description
 
